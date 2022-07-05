@@ -2,12 +2,12 @@
 ##### [Back to README](README.md)
 #
 ### Principles:
-- [X] [1. Customer Obsession](#1-customer-obsession)
-- [X] [2. Ownership](#2-ownership)
-- [X] [3. Invent and Simplify](#3-invent-and-simplify)
-- [X] [4. Are Right, A Lot](#4-are-right-a-lot)
-- [X] [5. Learn and Be Curious](#5-learn-and-be-curious)
-- [X] [6. Hire and Develop the Best](#6-hire-and-develop-the-best)
+- [ ] [1. Customer Obsession](#1-customer-obsession)
+- [ ] [2. Ownership](#2-ownership)
+- [ ] [3. Invent and Simplify](#3-invent-and-simplify)
+- [ ] [4. Are Right, A Lot](#4-are-right-a-lot)
+- [ ] [5. Learn and Be Curious](#5-learn-and-be-curious)
+- [ ] [6. Hire and Develop the Best](#6-hire-and-develop-the-best)
 - [ ] [7. Insist on the Highest Standards](#7-insist-on-the-highest-standards)
 - [ ] [8. Think Big](#8-think-big)
 - [ ] [9. Bias for Action](#9-bias-for-action)
